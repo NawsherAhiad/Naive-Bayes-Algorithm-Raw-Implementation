@@ -1,0 +1,16 @@
+SL,marital status,education status,housing,loan,deposit
+1,divorced,secondary,yes,yes,no
+2,married,tertiary,no,no,yes
+3,single,secondary,yes,no,no
+4,single,tertiary,no,yes,no
+5,single,secondary,no,no,no
+6,married,tertiary,yes,no,yes
+7,married,tertiary,no,yes,yes
+8,divorced,secondary,no,yes,no
+9,married,primary,no,no,yes
+10,divorced,secondary,yes,no,no
+11,married,primary,no,yes,no
+12,single,secondary,no,no,yes
+13,married,primary,yes,no,yes
+14,single,primary,no,yes,no
+15,divorced,secondary,yes,no,yes

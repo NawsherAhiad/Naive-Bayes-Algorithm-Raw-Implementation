@@ -1,0 +1,25 @@
+create table naive( 
+	SL number,
+	MaritalStatus varchar2(10),
+	EducationStatus varchar2(10),
+	housing varchar2(5),
+	loan  varchar2(5),
+	deposit varchar2(5),
+	primary key(SL)
+);
+
+insert into naive values(1	,'divorced',	'secondary',	'yes',	'yes',	'no');
+insert into naive values(2	,'married',	'tertiary',	'no',	'no',	'yes');
+insert into naive values(3	,'single',	'secondary',	'yes',	'no',	'no');
+insert into naive values(4	,'single',	'tertiary',	'no',	'yes',	'no');
+insert into naive values(5	,'single',	'secondary',	'no',	'no',	'no');
+insert into naive values(6	,'married',	'tertiary',	'yes',	'no',	'yes');
+insert into naive values(7	,'married',	'tertiary',	'no',	'yes',	'yes');
+insert into naive values(8	,'divorced',	'secondary',	'no',	'yes',	'no');
+insert into naive values(9	,'married',	'primary',	'no',	'no',	'yes');
+insert into naive values(10	,'divorced',	'secondary',	'yes',	'no',	'no');
+insert into naive values(11	,'married',	'primary',	'no',	'yes',	'no');
+insert into naive values(12	,'single',	'secondary',	'no',	'no',	'yes');
+insert into naive values(13	,'married',	'primary',	'yes',	'no',	'yes');
+insert into naive values(14	,'single',	'primary',	'no',	'yes',	'no');
+insert into naive values(15	,'divorced',	'secondary',	'yes',	'no',	'yes');	

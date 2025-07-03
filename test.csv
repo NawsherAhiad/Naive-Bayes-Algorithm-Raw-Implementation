@@ -1,0 +1,6 @@
+SL,marital status,education status,housing,loan
+1,single,primary,yes,yes
+2,married,tertiary,no,no
+3,single,secondary,yes,yes
+4,married,primary,no,no
+5,divorced,secondary,no,yes
